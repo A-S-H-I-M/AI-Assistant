@@ -90,3 +90,11 @@ After the models are cached:
 - uploaded files must be WAV
 - large language model responses can still be slow compared to smaller models
 - first-time model downloads require access to `huggingface.co`
+
+## Future Improvements
+
+- longer or adjustable recording duration
+- support for MP3 or other audio formats
+- selectable voices
+- chat history and multi-turn conversation
+- faster or quantized local LLM loading
